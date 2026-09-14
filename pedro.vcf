@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Abella Langa;Pedro;;;
+FN:Pedro Abella Langa FRICS
+ORG:Realaize Capital Holding S.L.
+TITLE:CIO & Partner
+EMAIL;type=INTERNET;type=WORK;type=pref:pedro@realaize.capital
+TEL;type=CELL;type=VOICE;type=pref:+34616463821
+ADR;type=WORK:;;Calle de Zurbano 34\, 4º Izda.;Madrid;;28010;Spain
+URL:https://www.realaize.capital
+item1.URL:https://www.linkedin.com/in/pedro-abella-langa-frics-61291ab/
+item1.X-ABLabel:LinkedIn
+NOTE:Living & Hospitality real estate investment in Spain and Southern Europe.
+REV:2026-09-14T00:00:00Z
+END:VCARD
